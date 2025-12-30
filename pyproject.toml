@@ -28,3 +28,6 @@ dev = [
 
 [project.scripts]
 gitlab-mcp = "gitlab_mcp.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/gitlab_mcp"]
