@@ -1,5 +1,7 @@
 # GitLab MCP Server
 
+<!-- mcp-name: io.github.asklokesh/gitlab-mcp-server -->
+
 <div align="center">
 
 # Gitlab Mcp Server
